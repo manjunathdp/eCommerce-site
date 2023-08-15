@@ -1,0 +1,11 @@
+{
+  "name": "impli",
+  "version": "1.0.0",
+  "description": "The Backend for eComm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manjunath Pujar",
+  "license": "ISC"
+}
